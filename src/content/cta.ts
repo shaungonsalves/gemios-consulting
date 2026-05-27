@@ -8,6 +8,7 @@ export const cta: CtaContent = {
   secondaryLabel: 'Request a meeting',
   secondarySubject: 'Meeting request — Gemios Consulting',
   schedulingNote:
-    'A dedicated scheduling link can be provided on request. For initial contact, email is preferred.',
+    'For initial contact, email is preferred. You can also view availability to book directly below.',
   email: 'gemiosconsulting@gmail.com',
+  schedulingUrl: 'https://calendar.app.google/7f9mbWEUEQo73WkK7',
 };

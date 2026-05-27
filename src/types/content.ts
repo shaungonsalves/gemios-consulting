@@ -51,4 +51,5 @@ export interface CtaContent {
   secondarySubject: string;
   schedulingNote: string;
   email: string;
+  schedulingUrl: string;
 }

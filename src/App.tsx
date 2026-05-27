@@ -6,9 +6,7 @@ import { AboutSection } from './sections/AboutSection';
 import { ContactSection } from './sections/ContactSection';
 import { ExpertiseSection } from './sections/ExpertiseSection';
 import { HeroSection } from './sections/HeroSection';
-import { HowWeWorkSection } from './sections/HowWeWorkSection';
 import { PortfolioSection } from './sections/PortfolioSection';
-import { StackSection } from './sections/StackSection';
 
 export default function App() {
   useEffect(() => {
@@ -26,9 +24,7 @@ export default function App() {
         <HeroSection />
         <AboutSection />
         <ExpertiseSection />
-        <HowWeWorkSection />
         <PortfolioSection />
-        <StackSection />
         <ContactSection />
       </main>
       <SiteFooter />
